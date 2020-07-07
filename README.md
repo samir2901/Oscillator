@@ -7,3 +7,4 @@ Modules used:
 2. Matplotlib
 3. numpy
 4. scipy
+![Screenshot](https://github.com/samir2901/Oscillator/blob/master/screenshot/python_QAd2mTOJVH.png?raw=true)
